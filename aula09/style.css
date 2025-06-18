@@ -1,0 +1,24 @@
+a:link{
+  color:blue;
+}
+a:hover{
+  color:red;
+}
+a:visited{
+  color:gray;
+}
+a:focus{
+  border:5px solid green;  
+}
+li:first-child{
+  font-weight: bolder;
+}
+li:last-child{
+  color:green;
+}
+li:nth-child(odd){
+  background-color:lightblue;
+}
+li:nth-child(even){
+  background-color:lavender;
+}
